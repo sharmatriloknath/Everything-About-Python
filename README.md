@@ -1,2 +1,10 @@
-# Everything-About-Python
-This Repository Contains Several branches where each branch is about the feature of python.
+# Fundamentals Of Language
+In this branch we will discuss about the basics of language.
+
+## Content:
+
+1. Introduction.
+2. Fundamental Data Types.
+3. Type Casting of Fundamental Data Types.
+4. Immutablility.
+5. bytes and bytearray Data Type.
